@@ -1,6 +1,6 @@
 <template>
   <div v-if="isInitialized">
-    <button @click="inc()">Clicked is new now {{ countState.count }} times.</button>
+    <button @click="inc()">Clicked is really new now {{ countState.count }} times.</button>
   </div>
 </template>
 
