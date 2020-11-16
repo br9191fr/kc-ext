@@ -1,6 +1,6 @@
 <template>
   <div v-if="isInitialized">
-    <button @click="inc()">Clicked {{ countState.count }} times.</button>
+    <button @click="inc()">Clicked# {{ countState.count }} times.</button>
   </div>
 </template>
 
