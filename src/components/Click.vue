@@ -4,6 +4,7 @@
   </div>
 </template>
 // script now
+// new test
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
