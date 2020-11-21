@@ -3,10 +3,11 @@
     <button @click="inc()">Clicked is really new now {{ countState.count }} times.</button>
   </div>
 </template>
-
+// script now
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
+let myData = {'info': 12,"other": "any"}
 export default {
   setup() {
     onBeforeMount(async () => await clickStore.init())
