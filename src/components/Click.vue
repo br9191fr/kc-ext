@@ -10,6 +10,7 @@
 //in test 2 second
 // final in master
 // a new comment in test branch
+// fianl add
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
