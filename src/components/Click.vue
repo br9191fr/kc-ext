@@ -4,8 +4,7 @@
   </div>
 </template>
 // script now
-// new test
-// a comment in test branch
+// another comment
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
