@@ -6,8 +6,8 @@
 // new test
 // a comment in test branch
 // another comment
-// from master
-// from master 2
+//in test 2 first
+//in test 2 second
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
