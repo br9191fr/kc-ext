@@ -3,7 +3,8 @@
     <button @click="inc()">Clicked is really new now {{ countState.count }} times.</button>
   </div>
 </template>
-// script now
+// new test
+// a comment in test branch
 // another comment
 <script>
 import {clickStore} from "../store/click-store";
