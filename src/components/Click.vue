@@ -5,6 +5,7 @@
 </template>
 // script now
 // new test
+// a comment in test branch
 <script>
 import {clickStore} from "../store/click-store";
 import {onBeforeMount} from 'vue'
